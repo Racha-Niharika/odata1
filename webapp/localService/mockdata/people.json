@@ -1,0 +1,39 @@
+{
+	"value": [
+		{
+			"product_id": "LTP-002",
+			"product_name": "Dell XPS 13",
+			"product_cost": 67500,
+			"product_sell": 90000,
+			"product_img@odata.mediaReadLink": "https://m.media-amazon.com/images/I/41D1SYZ2sPL.jpg"
+		},
+		{
+			"product_id": "TBL-003",
+			"product_name": "iPad Air",
+			"product_cost": 37500,
+			"product_sell": 48750,
+			"product_img@odata.mediaReadLink": "https://m.media-amazon.com/images/I/31reJbshTLL._SY445_SX342_QL70_FMwebp_.jpg"
+		},
+		{
+			"product_id": "SPH-001",
+			"product_name": "Galaxy S21",
+			"product_cost": 52500,
+			"product_sell": 67500,
+			"product_img@odata.mediaReadLink": "https://media.wired.com/photos/6008b7cd103a85a519187c3e/191:100/w_1280c_limit/Gear-galaxys21_plus_phantom_silver_front.jpg"
+		},
+		{
+			"product_id": "HPH-005",
+			"product_name": "Sony WH-1000XM4",
+			"product_cost": 13500,
+			"product_sell": 17250,
+			"product_img@odata.mediaReadLink": "https://i.gadgets360cdn.com/large/sony_wh_1000xm4_review_main_1600410397754.jpg"
+		},
+		{
+			"product_id": "SWT-004",
+			"product_name": "Apple Watch",
+			"product_cost": 15000,
+			"product_sell": 19500,
+			"product_img@odata.mediaReadLink": "https://www.apple.com/newsroom/images/product/watch/standard/Apple_watch-series7_hero_09142021_big.jpg.large.jpg"
+		}
+	]
+}
